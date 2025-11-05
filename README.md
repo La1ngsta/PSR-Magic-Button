@@ -3,10 +3,16 @@ A custom run application which converts columns and rows in a CSV file into a st
 This allows Project Managers to only edit a simple csv file without having to worry about formatting and beautifying project status reports.
 The report is rendored in HTML and features a custom print to PDF button which always fits the report in A3 landscape single screen.
 
+# Why was this developed
+This application was designed specifically to run in security hardened organisations which control software on enterprise assets through a Standard Operating Environment (SOE).
+The application is able to work on devices which run Application Control Agents, As it utilises processes already approved through the MSEdge Browser to render and generate the report.
+The application only makes uses of default applications which come standard in windows 10 and 11.
+
 # Requirements
 - Permission to run .bat files on your local computer
 - Windows Edge Browser (msedge.exe)
 - a txt editor such as notepad.exe or other code editor
+- Outside of these requirements, The application itself does not require installation, only a single line edit of the run.bat file
 
 # Setting up on your local machine
 1. To run the application you need to download and unpackaged/unzip onto your local computer.
