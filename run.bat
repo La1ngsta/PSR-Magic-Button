@@ -1,0 +1,1 @@
+start msedge.exe --disable-web-security --user-data-dir="C:\EdgeDevSession" file:///P:/PSR/PSR.html

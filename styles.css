@@ -1,0 +1,89 @@
+/* Reset default browser styles */
+body, h2, h3, p, ul, li, table {
+    margin: 0;
+    padding: 0;
+}
+
+.darwin {
+    background-color: #76BA43; /* NTG Colour Full Palette: Darwin - HEX #76BA43 */
+}
+
+.yellow {
+    background-color: #ffc107;
+}
+
+.red {
+    background-color: #dc3545;
+}
+
+.gray {
+    background-color: #6c757d;
+}
+
+.coastline {
+    background-color: #2E979C; /* NTG Colour Full Palette: Coastline - HEX #2E979C */
+}
+
+.silver {
+    background-color: #C0C0C0;
+}
+
+.sand {
+    background-color: #D9DED4; /* NTG Colour Full Palette: Sand - HEX #D9DED4 */
+}
+
+.charcoal {
+    background-color: #343741; /* NTG Colour Full Palette: Charcoal - HEX #343741 */
+}
+
+.territory {
+    background-color: #F4551A; /* NTG Colour Full Palette: Territory - HEX #F4551A */
+}
+
+.monsoon {
+    background-color: #003251; /* NTG Colour Full Palette: Monsoon - HEX #003251 */
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+/* Table styling */
+#projectTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0;
+}
+
+/* Data row styling */
+#projectTable tbody td {
+    border: 1px solid #dee2e6;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Traffic light styling */
+.traffic-light {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+/* Highlight Row on Mouse Hover */
+tbody tr:hover {
+    background-color: #D9DED4; /* NTG Colour Full Palette: Sand - HEX #D9DED4 */
+}
