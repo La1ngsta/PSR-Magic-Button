@@ -5,8 +5,8 @@ The report is rendored in HTML and features a custom print to PDF button which a
 
 # Why was this developed
 This application was designed specifically to run in security hardened organisations which control software on enterprise assets through a Standard Operating Environment (SOE).
-The application is able to work on devices which run Application Control Agents, As it utilises processes already approved through the MSEdge Browser to render and generate the report.
-The application only makes uses of default applications which come standard in windows 10 and 11.
+The application is able to work on devices which run Application Control Agents. It does this by utilising processes already approved through the MSEdge Browser to render and generate the report.
+The application only utilised default applications which come standard in windows 10 and 11.
 
 # Requirements
 - Permission to run .bat files on your local computer
