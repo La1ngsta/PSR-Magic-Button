@@ -22,6 +22,28 @@ The application only utilised default applications which come standard in window
    Example: If you want to run the program from your desktop you might have a file path such as file:///C:/Users/laicl/Desktop/PSR-Magic-Button-main/PSR.html
 5. The application can now be run by double clicking on the run.bat file
 
+# How to use the application
+To edit the PSR content, open up the PSR.CSV file within the project and change the data within the report.
+You do not need to format the csv file, you can add infite columns with your own headings, and infinite rows.
+The program will automatically formate these rows to fit on one screen within the report, dynamically adjusting the column and row size
+<img width="1344" height="486" alt="image" src="https://github.com/user-attachments/assets/67bd0b8d-44fc-42ca-b463-3c9a17f6917a" />
+
+# Traffic Light Indicators
+There are some special rules to substitue traffic light indicators, these are often used as part of a traditional Red, Amber, Green (RAG) status.
+This application expandes on the common RAG colours to include a few others relevant to Project Management reporting in Project Status Reports.
+<img width="689" height="61" alt="image" src="https://github.com/user-attachments/assets/589eab14-a65e-48a5-8934-646bd4251c6f" />
+
+# Run the Report
+When you are ready to run the report, execute the run.bat file within the project directory.
+If MSEdge says file not found, this means you have not correctly edited the run.bat file in the setup instructions and it cannot find the PSR.html file
+In this case you will have to edit the run.bat file in notepad and troubleshoot the file directory path.
+If the report is successful it should appear within MSEdge rendered in HTML. 
+You are able to edit the CSV file live, just press F5 or refresh while in MSEdge to have those edits updating to see in the report.
+If you are happy with the report, scroll down to the bottom and press the custom print to CSV button to have it saved in a single A3 landscape document.
+
 # Example Project Status Report Output
 <img width="1893" height="688" alt="image" src="https://github.com/user-attachments/assets/767804cc-38b3-47d5-8221-59658c08ef2d" />
 <img width="1898" height="332" alt="image" src="https://github.com/user-attachments/assets/571eff51-787e-4bfe-ad4c-760d012f1cb7" />
+
+# Single Page A3 .PDF output
+<img width="1247" height="848" alt="image" src="https://github.com/user-attachments/assets/a1afb1a9-ed4e-475f-8149-dd65a1097991" />
