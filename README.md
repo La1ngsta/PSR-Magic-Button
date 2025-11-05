@@ -21,3 +21,7 @@ The application only utilised default applications which come standard in window
 4. Edit the line which says file:///P:/PSR-Magic-Button/PSR.html and change it to the new path where the /PSR-Magic-Button/PSR.html is located
    Example: If you want to run the program from your desktop you might have a file path such as file:///C:/Users/laicl/Desktop/PSR-Magic-Button-main/PSR.html
 5. The application can now be run by double clicking on the run.bat file
+
+# Example Project Status Report Output
+<img width="1893" height="688" alt="image" src="https://github.com/user-attachments/assets/767804cc-38b3-47d5-8221-59658c08ef2d" />
+<img width="1898" height="332" alt="image" src="https://github.com/user-attachments/assets/571eff51-787e-4bfe-ad4c-760d012f1cb7" />
