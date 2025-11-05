@@ -25,12 +25,14 @@ The application only utilised default applications which come standard in window
 # How to use the application
 To edit the PSR content, open up the PSR.CSV file within the project and change the data within the report.
 You do not need to format the csv file, you can add infite columns with your own headings, and infinite rows.
-The program will automatically formate these rows to fit on one screen within the report, dynamically adjusting the column and row size
+The program will automatically formate these rows to fit on one screen within the report, dynamically adjusting the column and row size.
+
 <img width="1344" height="486" alt="image" src="https://github.com/user-attachments/assets/67bd0b8d-44fc-42ca-b463-3c9a17f6917a" />
 
 # Traffic Light Indicators
 There are some special rules to substitue traffic light indicators, these are often used as part of a traditional Red, Amber, Green (RAG) status.
 This application expandes on the common RAG colours to include a few others relevant to Project Management reporting in Project Status Reports.
+
 <img width="689" height="61" alt="image" src="https://github.com/user-attachments/assets/589eab14-a65e-48a5-8934-646bd4251c6f" />
 
 # Run the Report
