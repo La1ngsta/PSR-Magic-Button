@@ -9,7 +9,7 @@ The report is rendored in HTML and features a custom print to PDF button which a
 - a txt editor such as notepad.exe or other code editor
 
 # Setting up on your local machine
-1. To run the application you need to download and unpackaged/unzip onto your location computer.
+1. To run the application you need to download and unpackaged/unzip onto your local computer.
 2. You need to open up notepad and edit the run.bat file.
    If you cant see the run.bat file when trying to open in notepad make sure you click the drop down and select All Files (default is Text Documents)
 4. Edit the line which says file:///P:/PSR-Magic-Button/PSR.html and change it to the new path where the /PSR-Magic-Button/PSR.html is located
