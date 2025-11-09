@@ -6,7 +6,7 @@ The report is rendored in HTML and features a custom print to PDF button which a
 # Why was this developed
 This application was designed specifically to run in security hardened organisations which control software on enterprise assets through a Standard Operating Environment (SOE).
 The application is able to work on devices which run Application Control Agents. It does this by utilising processes already approved through the MSEdge Browser to render and generate the report.
-The application only utilised default applications which come standard in windows 10 and 11.
+The application only utilises default applications which come standard in windows 10 and 11.
 
 # Requirements
 - Permission to run .bat files on your local computer
@@ -31,7 +31,7 @@ The program will automatically formate these rows to fit on one screen within th
 
 # Traffic Light Indicators
 There are some special rules to substitue traffic light indicators, these are often used as part of a traditional Red, Amber, Green (RAG) status.
-This application expandes on the common RAG colours to include a few others relevant to Project Management reporting in Project Status Reports.
+This application expands on the common RAG colours to include a few others relevant to Project Management reporting in Project Status Reports.
 
 <img width="689" height="61" alt="image" src="https://github.com/user-attachments/assets/589eab14-a65e-48a5-8934-646bd4251c6f" />
 
